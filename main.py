@@ -2,8 +2,8 @@ from sender import Sender
 from config import *
 from excel import Excel_work
 
-sender = 'open.cv18@gmail.com'     #change it
-password = "open.cv18ukr1"        #change it
+sender = ""     #change it
+password = ""        #change it
 
 if __name__ == '__main__':
     
